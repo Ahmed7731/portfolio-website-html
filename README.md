@@ -34,3 +34,8 @@ It is built using **HTML** and **basic CSS styling only**, following the require
 3. Run `index.html` in any browser
 
 ---
+## 📷 Preview
+
+Here is a screenshot of the webpage:
+
+![Website Preview](images/design.png)
