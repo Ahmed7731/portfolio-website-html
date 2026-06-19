@@ -1,4 +1,4 @@
-# 👤 Assignment 1 – Personal Profile Webpage
+# 👤 Personal Profile Webpage
 
 ## 📌 Overview
 This project is a simple **personal profile webpage** created as part of **Assignment 1** for the **Route Academy Full-Stack Diploma**.
@@ -32,10 +32,3 @@ It is built using **HTML** and **basic CSS styling only**, following the require
 1. Download or clone the repository
 2. Open the folder
 3. Run `index.html` in any browser
-
----
-## 📷 Preview
-
-Here is a screenshot of the webpage:
-
-![Website Preview](images/design.png)
